@@ -1,0 +1,7 @@
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\bin\x64\Debug\perceptual.exe.config
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\bin\x64\Debug\perceptual.exe
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\bin\x64\Debug\perceptual.pdb
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\obj\x64\Debug\perceptual.csprojResolveAssemblyReference.cache
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\obj\x64\Debug\perceptual.exe
+C:\Users\dimitr\documents\visual studio 2013\Projects\perceptual\perceptual\obj\x64\Debug\perceptual.pdb
